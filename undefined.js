@@ -8,4 +8,4 @@ function second(a,b){
 function second(a,b,c,d){
    console.log(a,b,c,d)
 }
-second(3,5)
+second(3,5) //Peramitter na dile undefined dekhabe:::
